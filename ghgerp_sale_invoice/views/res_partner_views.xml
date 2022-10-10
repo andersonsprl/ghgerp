@@ -9,7 +9,7 @@
                 <field name="street2" position="after">
                     <field name="street3" placeholder="Street 3..." class="o_address_street"/>
                 </field>
-                <xpath expr="//sheet/notebook/page[@name='contact_addresses']/field/form/sheet/field[@name='street2]" position="after">
+                <xpath expr="//div/div/field[@name='street2']" position="after">
                     <field name="street3" placeholder="Street 3..." class="o_address_street"/>
                 </xpath>
             </field>
