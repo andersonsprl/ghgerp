@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="project_account_config_action" model="ir.actions.act_window">
+        <field name="name">Project Account Configuration</field>
+        <field name="res_model">product.project.config</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <menuitem id="project_account_config" name="" parent="sale.menu_sale_config" action="ghgerp_sale_invoice.project_account_config_action" sequence="2"/>
+
+</odoo>
