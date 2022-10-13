@@ -23,6 +23,7 @@
         'views/product_project_config_menu.xml',
         'views/product_project_config_view.xml',
         'views/res_partner_views.xml',
+        'views/sale_order_view.xml',
     ],
 
     # Other
