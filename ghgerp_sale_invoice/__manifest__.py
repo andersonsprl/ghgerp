@@ -24,6 +24,7 @@
         'views/product_project_config_view.xml',
         'views/res_partner_views.xml',
         'views/sale_order_view.xml',
+        'views/ir_attachment_view.xml',
     ],
 
     # Other
